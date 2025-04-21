@@ -1,1 +1,2 @@
 # Python_Career-Recommendation-System
+The Career Recommendation System developed in this project has demonstrated its capability to provide accurate and relevant career suggestions based on user inputs regarding their skills and interests. Through the application of TF-IDF vectorization, dimensionality reduction using Truncated SVD, and Nearest Neighbors classification, the model successfully recommends suitable careers, outperforming a baseline model in key performance metrics.
